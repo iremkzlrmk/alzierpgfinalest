@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "991769405474",
+    "firebase_url": "https://caramel-macchiato-c77a3-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "caramel-macchiato-c77a3",
+    "storage_bucket": "caramel-macchiato-c77a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991769405474:android:2578b930028b002bbdc27b",
+        "android_client_info": {
+          "package_name": "com.caramel.macchiato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991769405474-ljrtd10apm6pupqmsvsq40nvr1t04lgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiUuZ_nbmXVRrUFUSqSe6kICC4Mer1cIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991769405474-ljrtd10apm6pupqmsvsq40nvr1t04lgq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "991769405474-vfhe9i4ul2tujbcphf8epep9pas562ol.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.caramel.macchiato"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
