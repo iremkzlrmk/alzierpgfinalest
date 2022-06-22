@@ -1,7 +1,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-
 [CreateAssetMenu(menuName = "ScriptableObjects/StorageData")]
 public class StorageData : ScriptableObject
 {
